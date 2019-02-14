@@ -1,6 +1,5 @@
 #!/usr/bin/env python2.7
 
-# There is a bug in this code. Check out the solution
 #INF 553 HW5
 #Myungjin Lee
 #USCID: 5128876730
